@@ -11,13 +11,13 @@ https://codepen.io
 //Build, Test & Discover Frontend Code
 
 https://www.cs.dartmouth.edu/~thc/
-//Reference Personal Blog
+//Reference Personal Blog (1)
 
 http://www.cs.cornell.edu/home/kleinber/
-//Reference Personal Blog
+//Reference Personal Blog (2)
 
 https://www-cs-faculty.stanford.edu/~knuth/
-//Reference Personal Blog
+//Reference Personal Blog (3)
 
 ***  https://www.w3schools.com  ***
 //Resources for Reference (1)
@@ -28,8 +28,19 @@ https://www-cs-faculty.stanford.edu/~knuth/
 ***  https://developer.mozilla.org/en-US/   ***
 //Resources for Reference (3)
 
+https://docs.emmet.io/cheat-sheet/
+//Cheat Sheet
+
+CSS: -
+
 https://web.archive.org
 //Internet Archive - Wayback Machine - How Websites emerged from Html
 
-https://docs.emmet.io/cheat-sheet/
-//Cheat Sheet
+http://toastytech.com/evil/index.html
+//Classic 90s Style Website
+
+http://www.pascalvangemert.nl/#/profile
+//Reference Personal Blog with added CSS (1)
+
+http://seanhalpin.io
+//Reference Personal Blog with added CSS (2)
